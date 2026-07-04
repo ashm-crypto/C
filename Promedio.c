@@ -215,7 +215,7 @@ float calcularNotaFinal(float a, float b, float c, const int NUMEROUNIDADES){
     return notaFinal;
 }
 
-// Función para mostrar la nota cualitativa del estudiante.
+// Procedimiento para mostrar la nota cualitativa del estudiante.
 void notaFinalCualitativa(float notaFinal){
 
     /* Aplicación de estructura condicional en base a la nota final para mostrar 
